@@ -1,3 +1,5 @@
+# Exercícios Trybe
+
 Este repositório contém todos exercícios que já fiz durante meus estudos na Trybe, será constantemente atualizado ao decorrer do curso.
 
 _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho."_
